@@ -7,4 +7,6 @@
 
 # 3. Списки
 3.1. Пунк первый  
-   - Подпункт первый
+   - Подпункт первый  
+
+![C:\Users\GOODWAY\Desktop\545\git pic.png.](C:\Users\GOODWAY\Desktop\545)
