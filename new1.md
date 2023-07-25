@@ -8,5 +8,4 @@
 # 3. Списки
 3.1. Пунк первый  
    - Подпункт первый  
-# 4. Картинки
-![C:\Users\GOODWAY\Desktop\545\git pic.png.](C:\Users\GOODWAY\Desktop\545)
+git add
